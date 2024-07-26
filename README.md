@@ -1,2 +1,2 @@
-# App-for-cheching-prices
+# App-for-checking-prices
 BTC.html
