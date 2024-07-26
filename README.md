@@ -1,2 +1,2 @@
-# App-for-tweets-BTC-SOL-
+# App-for-cheching-prices
 BTC.html
